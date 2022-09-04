@@ -6,6 +6,11 @@ keywords:
         kaggle: 3
         resnet: 3
         anomaly detection: 1
+        inference: 5
+        quantization: 3
+        faster: 3
+        gpt: 2
+        generation: 3
 
 # 通知の閾値
 score_threshold: 0
